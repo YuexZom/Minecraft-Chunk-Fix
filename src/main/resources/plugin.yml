@@ -1,0 +1,3 @@
+name: RexozChunkFix
+version: '${version}'
+main: me.rexoz.xyz.speedlimiter.Main
